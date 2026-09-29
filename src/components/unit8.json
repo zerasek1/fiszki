@@ -1,0 +1,1207 @@
+[
+  {
+    "id": 1,
+    "polish": "autobus piętrowy",
+    "english": "double-decker"
+  },
+  {
+    "id": 2,
+    "polish": "ciężarówka",
+    "english": "lorry"
+  },
+  {
+    "id": 3,
+    "polish": "motocykl",
+    "english": "motorbike"
+  },
+  {
+    "id": 4,
+    "polish": "żaglówka",
+    "english": "sailing boat"
+  },
+  {
+    "id": 5,
+    "polish": "hulajnoga",
+    "english": "scooter"
+  },
+  {
+    "id": 6,
+    "polish": "taksówka",
+    "english": "taxi / cab"
+  },
+  {
+    "id": 7,
+    "polish": "tramwaj",
+    "english": "tram"
+  },
+  {
+    "id": 8,
+    "polish": "furgonetka",
+    "english": "van"
+  },
+  {
+    "id": 9,
+    "polish": "jacht",
+    "english": "yacht"
+  },
+  {
+    "id": 10,
+    "polish": "ciężarówka naczepowa; TIR",
+    "english": "articulated lorry"
+  },
+  {
+    "id": 11,
+    "polish": "kolejka linowa",
+    "english": "cable car"
+  },
+  {
+    "id": 12,
+    "polish": "statek wycieczkowy",
+    "english": "cruise liner"
+  },
+  {
+    "id": 13,
+    "polish": "samochód z napędem na cztery koła",
+    "english": "four-by-four"
+  },
+  {
+    "id": 14,
+    "polish": "barka",
+    "english": "narrow boat"
+  },
+  {
+    "id": 15,
+    "polish": "wyciąg narciarski",
+    "english": "ski lift"
+  },
+  {
+    "id": 16,
+    "polish": "samochód sportowy",
+    "english": "sports car"
+  },
+  {
+    "id": 17,
+    "polish": "terminal pasażerski na lotnisku",
+    "english": "airport terminal"
+  },
+  {
+    "id": 18,
+    "polish": "przystanek autobusowy",
+    "english": "bus stop"
+  },
+  {
+    "id": 19,
+    "polish": "wagon",
+    "english": "carriage"
+  },
+  {
+    "id": 20,
+    "polish": "przedział",
+    "english": "compartment"
+  },
+  {
+    "id": 21,
+    "polish": "hala odlotów",
+    "english": "departure lounge"
+  },
+  {
+    "id": 22,
+    "polish": "terminal promowy",
+    "english": "ferry terminal"
+  },
+  {
+    "id": 23,
+    "polish": "wyjście (do samolotu)",
+    "english": "gate"
+  },
+  {
+    "id": 24,
+    "polish": "peron",
+    "english": "platform"
+  },
+  {
+    "id": 25,
+    "polish": "stacja kolejowa",
+    "english": "railway / train station"
+  },
+  {
+    "id": 26,
+    "polish": "postój taksówek",
+    "english": "taxi rank"
+  },
+  {
+    "id": 27,
+    "polish": "kasa biletowa",
+    "english": "ticket office"
+  },
+  {
+    "id": 28,
+    "polish": "stacja metra",
+    "english": "underground station"
+  },
+  {
+    "id": 29,
+    "polish": "poczekalnia",
+    "english": "waiting room"
+  },
+  {
+    "id": 30,
+    "polish": "punkt odbioru bagażu",
+    "english": "baggage reclaim"
+  },
+  {
+    "id": 31,
+    "polish": "punkt odprawy bagażu",
+    "english": "check-in desk"
+  },
+  {
+    "id": 32,
+    "polish": "pokład",
+    "english": "deck"
+  },
+  {
+    "id": 33,
+    "polish": "stacja wypożyczalni rowerów",
+    "english": "docking station"
+  },
+  {
+    "id": 34,
+    "polish": "port, przystań",
+    "english": "harbour"
+  },
+  {
+    "id": 35,
+    "polish": "pas startowy",
+    "english": "runway"
+  },
+  {
+    "id": 36,
+    "polish": "tor kolejowy",
+    "english": "track"
+  },
+  {
+    "id": 37,
+    "polish": "wejść na pokład samolotu",
+    "english": "board the plane"
+  },
+  {
+    "id": 38,
+    "polish": "opłata za przejazd autobusem",
+    "english": "bus fare"
+  },
+  {
+    "id": 39,
+    "polish": "odwołany",
+    "english": "cancelled"
+  },
+  {
+    "id": 40,
+    "polish": "bagażnik samochodowy",
+    "english": "car boot"
+  },
+  {
+    "id": 41,
+    "polish": "złapać autobus",
+    "english": "catch a bus"
+  },
+  {
+    "id": 42,
+    "polish": "przesiąść się do innego pociągu",
+    "english": "change trains"
+  },
+  {
+    "id": 43,
+    "polish": "odprawić bagaż",
+    "english": "check in your luggage"
+  },
+  {
+    "id": 44,
+    "polish": "opóźniony",
+    "english": "delayed"
+  },
+  {
+    "id": 45,
+    "polish": "klasa ekonomiczna/pierwsza klasa",
+    "english": "economy / first class"
+  },
+  {
+    "id": 46,
+    "polish": "wsiąść do pociągu",
+    "english": "get on a train"
+  },
+  {
+    "id": 47,
+    "polish": "podwieźć kogoś",
+    "english": "give sb a lift"
+  },
+  {
+    "id": 48,
+    "polish": "przejść odprawę celną",
+    "english": "go through customs"
+  },
+  {
+    "id": 49,
+    "polish": "wylądować",
+    "english": "land"
+  },
+  {
+    "id": 50,
+    "polish": "półka na bagaż",
+    "english": "luggage rack"
+  },
+  {
+    "id": 51,
+    "polish": "spóźnić się na samolot",
+    "english": "miss a flight"
+  },
+  {
+    "id": 52,
+    "polish": "pasażer/pasażerka",
+    "english": "passenger"
+  },
+  {
+    "id": 53,
+    "polish": "kontrola paszportowa",
+    "english": "passport control"
+  },
+  {
+    "id": 54,
+    "polish": "wydrukować kartę pokładową",
+    "english": "print out a boarding pass"
+  },
+  {
+    "id": 55,
+    "polish": "bilet w jedną stronę/powrotny",
+    "english": "single / return ticket"
+  },
+  {
+    "id": 56,
+    "polish": "wystartować (o samolocie)",
+    "english": "take off"
+  },
+  {
+    "id": 57,
+    "polish": "biletomat",
+    "english": "ticket machine"
+  },
+  {
+    "id": 58,
+    "polish": "rozkład jazdy",
+    "english": "timetable"
+  },
+  {
+    "id": 59,
+    "polish": "punkt ładowania",
+    "english": "charge point"
+  },
+  {
+    "id": 60,
+    "polish": "zatankować do pełna",
+    "english": "fill up"
+  },
+  {
+    "id": 61,
+    "polish": "otrzymać usługę o wyższym standardzie",
+    "english": "get an upgrade"
+  },
+  {
+    "id": 62,
+    "polish": "schowek na bagaż podręczny",
+    "english": "overhead locker"
+  },
+  {
+    "id": 63,
+    "polish": "priorytetowe wejście na pokład samolotu",
+    "english": "priority boarding"
+  },
+  {
+    "id": 64,
+    "polish": "bilet okresowy",
+    "english": "season ticket"
+  },
+  {
+    "id": 65,
+    "polish": "mieć wszystkie miejsca zarezerwowane",
+    "english": "be fully booked"
+  },
+  {
+    "id": 66,
+    "polish": "pensjonat oferujący noclegi ze śniadaniem",
+    "english": "bed and breakfast"
+  },
+  {
+    "id": 67,
+    "polish": "rezerwować z wyprzedzeniem",
+    "english": "book in advance"
+  },
+  {
+    "id": 68,
+    "polish": "mały, luksusowy hotel",
+    "english": "boutique hotel"
+  },
+  {
+    "id": 69,
+    "polish": "chata, domek",
+    "english": "cabin"
+  },
+  {
+    "id": 70,
+    "polish": "samochód kempingowy",
+    "english": "camper van"
+  },
+  {
+    "id": 71,
+    "polish": "przyczepa kempingowa",
+    "english": "caravan"
+  },
+  {
+    "id": 72,
+    "polish": "zameldować się w hotelu",
+    "english": "check in"
+  },
+  {
+    "id": 73,
+    "polish": "numer kontaktowy",
+    "english": "contact number"
+  },
+  {
+    "id": 74,
+    "polish": "przyjazny psom, przyjmujący psy",
+    "english": "dog-friendly"
+  },
+  {
+    "id": 75,
+    "polish": "pokój dwuosobowy/jednoosobowy",
+    "english": "double / single room"
+  },
+  {
+    "id": 76,
+    "polish": "z łazienką",
+    "english": "ensuite"
+  },
+  {
+    "id": 77,
+    "polish": "udogodnienia, infrastruktura",
+    "english": "facilities"
+  },
+  {
+    "id": 78,
+    "polish": "hotel pięciogwiazdkowy",
+    "english": "five-star hotel"
+  },
+  {
+    "id": 79,
+    "polish": "pensjonat",
+    "english": "guest house"
+  },
+  {
+    "id": 80,
+    "polish": "miejscowość wypoczynkowa",
+    "english": "holiday resort"
+  },
+  {
+    "id": 81,
+    "polish": "rodzina goszcząca turystę/turystkę",
+    "english": "host family"
+  },
+  {
+    "id": 82,
+    "polish": "uwzględniony w cenie",
+    "english": "included"
+  },
+  {
+    "id": 83,
+    "polish": "atrakcyjna oferta wakacyjna z bliskim terminem wyjazdu",
+    "english": "last-minute holiday / deal"
+  },
+  {
+    "id": 84,
+    "polish": "zrobić rezerwację",
+    "english": "make a reservation"
+  },
+  {
+    "id": 85,
+    "polish": "przyczepa mieszkalna, motel",
+    "english": "mobile home"
+  },
+  {
+    "id": 86,
+    "polish": "rozbić namiot",
+    "english": "put up a tent"
+  },
+  {
+    "id": 87,
+    "polish": "wynająć dom letni",
+    "english": "rent a villa"
+  },
+  {
+    "id": 88,
+    "polish": "z własnym wyżywieniem",
+    "english": "self-catering"
+  },
+  {
+    "id": 89,
+    "polish": "dzielić pokój",
+    "english": "share a room"
+  },
+  {
+    "id": 90,
+    "polish": "apartament",
+    "english": "suite"
+  },
+  {
+    "id": 91,
+    "polish": "wolne pokoje",
+    "english": "vacancies"
+  },
+  {
+    "id": 92,
+    "polish": "schronisko młodzieżowe",
+    "english": "youth hostel"
+  },
+  {
+    "id": 93,
+    "polish": "dostępność",
+    "english": "accessibility"
+  },
+  {
+    "id": 94,
+    "polish": "przystępność cenowa",
+    "english": "affordability"
+  },
+  {
+    "id": 95,
+    "polish": "czystość",
+    "english": "cleanliness"
+  },
+  {
+    "id": 96,
+    "polish": "wygoda",
+    "english": "convenience"
+  },
+  {
+    "id": 97,
+    "polish": "elastyczność",
+    "english": "flexibility"
+  },
+  {
+    "id": 98,
+    "polish": "luksus",
+    "english": "luxury"
+  },
+  {
+    "id": 99,
+    "polish": "praktyczność",
+    "english": "practicality"
+  },
+  {
+    "id": 100,
+    "polish": "prywatność",
+    "english": "privacy"
+  },
+  {
+    "id": 101,
+    "polish": "bezpieczeństwo",
+    "english": "security"
+  },
+  {
+    "id": 102,
+    "polish": "wczasy dla amatorów aktywnego wypoczynku",
+    "english": "adventure holiday"
+  },
+  {
+    "id": 103,
+    "polish": "wczasy all-inclusive",
+    "english": "all-inclusive holiday"
+  },
+  {
+    "id": 104,
+    "polish": "wędrówka z plecakiem",
+    "english": "backpacking"
+  },
+  {
+    "id": 105,
+    "polish": "wczasy nad morzem",
+    "english": "beach holiday"
+  },
+  {
+    "id": 106,
+    "polish": "wycieczka statkiem",
+    "english": "boat trip"
+  },
+  {
+    "id": 107,
+    "polish": "wycieczka autokarowa",
+    "english": "bus tour"
+  },
+  {
+    "id": 108,
+    "polish": "zamek",
+    "english": "castle"
+  },
+  {
+    "id": 109,
+    "polish": "katedra",
+    "english": "cathedral"
+  },
+  {
+    "id": 110,
+    "polish": "krótki (zwykle weekendowy) wyjazd turystyczny do dużego miasta",
+    "english": "city break"
+  },
+  {
+    "id": 111,
+    "polish": "wspinaczka",
+    "english": "climbing"
+  },
+  {
+    "id": 112,
+    "polish": "rejs wycieczkowy",
+    "english": "cruise"
+  },
+  {
+    "id": 113,
+    "polish": "opuszczony, opustoszały",
+    "english": "deserted"
+  },
+  {
+    "id": 114,
+    "polish": "wycieczka",
+    "english": "excursion"
+  },
+  {
+    "id": 115,
+    "polish": "galeria",
+    "english": "gallery"
+  },
+  {
+    "id": 116,
+    "polish": "wycieczka z przewodnikiem",
+    "english": "guided tour"
+  },
+  {
+    "id": 117,
+    "polish": "piesza wycieczka",
+    "english": "hiking"
+  },
+  {
+    "id": 118,
+    "polish": "wynająć samochód/rower",
+    "english": "hire a car / bike"
+  },
+  {
+    "id": 119,
+    "polish": "o znaczeniu historycznym",
+    "english": "historic"
+  },
+  {
+    "id": 120,
+    "polish": "rezydent/rezydentka biura podróży",
+    "english": "holiday representative"
+  },
+  {
+    "id": 121,
+    "polish": "podróż",
+    "english": "journey"
+  },
+  {
+    "id": 122,
+    "polish": "lokalne wydarzenia kulturalne",
+    "english": "local cultural events"
+  },
+  {
+    "id": 123,
+    "polish": "pomnik",
+    "english": "monument"
+  },
+  {
+    "id": 124,
+    "polish": "ciekawy architektonicznie",
+    "english": "of architectural interest"
+  },
+  {
+    "id": 125,
+    "polish": "godziny otwarcia",
+    "english": "opening times"
+  },
+  {
+    "id": 126,
+    "polish": "wczasy zorganizowane",
+    "english": "package holiday"
+  },
+  {
+    "id": 127,
+    "polish": "pałac",
+    "english": "palace"
+  },
+  {
+    "id": 128,
+    "polish": "żeglarstwo",
+    "english": "sailing"
+  },
+  {
+    "id": 129,
+    "polish": "piaszczysta plaża",
+    "english": "sandy beach"
+  },
+  {
+    "id": 130,
+    "polish": "nurkowanie z akwalungiem",
+    "english": "scuba diving"
+  },
+  {
+    "id": 131,
+    "polish": "wycieczka ze zwiedzaniem",
+    "english": "sightseeing tour"
+  },
+  {
+    "id": 132,
+    "polish": "posąg",
+    "english": "statue"
+  },
+  {
+    "id": 133,
+    "polish": "trzymać się planu",
+    "english": "stick to the schedule"
+  },
+  {
+    "id": 134,
+    "polish": "opalanie",
+    "english": "sunbathing"
+  },
+  {
+    "id": 135,
+    "polish": "park rozrywki",
+    "english": "theme park"
+  },
+  {
+    "id": 136,
+    "polish": "przewodnik/przewodniczka",
+    "english": "tour guide"
+  },
+  {
+    "id": 137,
+    "polish": "turystyka",
+    "english": "tourism"
+  },
+  {
+    "id": 138,
+    "polish": "biuro podróży",
+    "english": "travel agency"
+  },
+  {
+    "id": 139,
+    "polish": "wycieczka, krótka podróż",
+    "english": "trip"
+  },
+  {
+    "id": 140,
+    "polish": "rejs, podróż morska",
+    "english": "voyage"
+  },
+  {
+    "id": 141,
+    "polish": "wakacje zimowe",
+    "english": "winter holiday"
+  },
+  {
+    "id": 142,
+    "polish": "pisać pocztówki",
+    "english": "write postcards"
+  },
+  {
+    "id": 143,
+    "polish": "opłata za wstęp",
+    "english": "admission charge"
+  },
+  {
+    "id": 144,
+    "polish": "starożytne ruiny",
+    "english": "ancient ruins"
+  },
+  {
+    "id": 145,
+    "polish": "arcydzieło architektury",
+    "english": "architectural wonder"
+  },
+  {
+    "id": 146,
+    "polish": "zapierający dech w piersiach widok",
+    "english": "breathtaking view"
+  },
+  {
+    "id": 147,
+    "polish": "tani lot",
+    "english": "budget flight"
+  },
+  {
+    "id": 148,
+    "polish": "podróż służbowa",
+    "english": "business trip"
+  },
+  {
+    "id": 149,
+    "polish": "bezpośredni lot",
+    "english": "direct flight"
+  },
+  {
+    "id": 150,
+    "polish": "pobyt na luksusowym kempingu",
+    "english": "glamping"
+  },
+  {
+    "id": 151,
+    "polish": "wczasowicz/wczasowiczka",
+    "english": "holidaymaker"
+  },
+  {
+    "id": 152,
+    "polish": "długi lot",
+    "english": "long-haul flight"
+  },
+  {
+    "id": 153,
+    "polish": "rezerwat przyrody",
+    "english": "nature reserve"
+  },
+  {
+    "id": 154,
+    "polish": "kamienista plaża",
+    "english": "pebbly beach"
+  },
+  {
+    "id": 155,
+    "polish": "skwar, żar",
+    "english": "scorching temperatures"
+  },
+  {
+    "id": 156,
+    "polish": "strome urwisko",
+    "english": "sheer cliff"
+  },
+  {
+    "id": 157,
+    "polish": "polowanie na pamiątki",
+    "english": "souvenir hunting"
+  },
+  {
+    "id": 158,
+    "polish": "wakacje spędzane w domu",
+    "english": "staycation"
+  },
+  {
+    "id": 159,
+    "polish": "okolica",
+    "english": "surrounding area"
+  },
+  {
+    "id": 160,
+    "polish": "emocjonująca przejażdżka",
+    "english": "thrilling ride"
+  },
+  {
+    "id": 161,
+    "polish": "organizacja podróży",
+    "english": "travel arrangements"
+  },
+  {
+    "id": 162,
+    "polish": "zepsuć się",
+    "english": "break down"
+  },
+  {
+    "id": 163,
+    "polish": "wezwać pogotowie/policję/lekarza",
+    "english": "call an ambulance / the police / a doctor"
+  },
+  {
+    "id": 164,
+    "polish": "ofiara wypadku",
+    "english": "casualty"
+  },
+  {
+    "id": 165,
+    "polish": "rozbić się; kraksa, wypadek",
+    "english": "crash"
+  },
+  {
+    "id": 166,
+    "polish": "nagły wypadek",
+    "english": "emergency"
+  },
+  {
+    "id": 167,
+    "polish": "zmierzyć się z czymś, stawić czemuś czoła",
+    "english": "face up to sth"
+  },
+  {
+    "id": 168,
+    "polish": "doznać poparzenia słonecznego",
+    "english": "get sunburned"
+  },
+  {
+    "id": 169,
+    "polish": "koło ratunkowe",
+    "english": "lifebelt"
+  },
+  {
+    "id": 170,
+    "polish": "szalupa ratunkowa",
+    "english": "lifeboat"
+  },
+  {
+    "id": 171,
+    "polish": "kamizelka ratunkowa",
+    "english": "lifejacket"
+  },
+  {
+    "id": 172,
+    "polish": "służby ratunkowe",
+    "english": "rescue services"
+  },
+  {
+    "id": 173,
+    "polish": "wskazówki dotyczące bezpieczeństwa",
+    "english": "safety instructions"
+  },
+  {
+    "id": 174,
+    "polish": "przeżyć, przetrwać",
+    "english": "survive"
+  },
+  {
+    "id": 175,
+    "polish": "zostać potrąconym",
+    "english": "be knocked down"
+  },
+  {
+    "id": 176,
+    "polish": "mieć chorobę morską",
+    "english": "be seasick"
+  },
+  {
+    "id": 177,
+    "polish": "stłuczka",
+    "english": "bump"
+  },
+  {
+    "id": 178,
+    "polish": "złapać wirusa",
+    "english": "come down with a bug"
+  },
+  {
+    "id": 179,
+    "polish": "ćwiczenia przeciwpożarowe",
+    "english": "fire drill"
+  },
+  {
+    "id": 180,
+    "polish": "udzielić pierwszej pomocy",
+    "english": "give first aid"
+  },
+  {
+    "id": 181,
+    "polish": "cudem uniknąć nieszczęścia",
+    "english": "have a narrow escape"
+  },
+  {
+    "id": 182,
+    "polish": "złapać gumę",
+    "english": "have a puncture"
+  },
+  {
+    "id": 183,
+    "polish": "awaria semafora",
+    "english": "signal failure"
+  },
+  {
+    "id": 184,
+    "polish": "choroba lokomocyjna",
+    "english": "travel sickness"
+  },
+  {
+    "id": 185,
+    "polish": "spytać o drogę",
+    "english": "ask for directions"
+  },
+  {
+    "id": 186,
+    "polish": "most",
+    "english": "bridge"
+  },
+  {
+    "id": 187,
+    "polish": "iść/jechać zgodnie ze wskazówkami",
+    "english": "follow directions"
+  },
+  {
+    "id": 188,
+    "polish": "pas ruchu",
+    "english": "lane"
+  },
+  {
+    "id": 189,
+    "polish": "autostrada",
+    "english": "motorway"
+  },
+  {
+    "id": 190,
+    "polish": "przejście dla pieszych",
+    "english": "pedestrian crossing"
+  },
+  {
+    "id": 191,
+    "polish": "znak drogowy",
+    "english": "road sign"
+  },
+  {
+    "id": 192,
+    "polish": "prace drogowe",
+    "english": "roadworks"
+  },
+  {
+    "id": 193,
+    "polish": "zwolnić",
+    "english": "slow down"
+  },
+  {
+    "id": 194,
+    "polish": "przyspieszyć",
+    "english": "speed up"
+  },
+  {
+    "id": 195,
+    "polish": "korek uliczny",
+    "english": "traffic jam"
+  },
+  {
+    "id": 196,
+    "polish": "sygnalizacja świetlna",
+    "english": "traffic lights"
+  },
+  {
+    "id": 197,
+    "polish": "tunel",
+    "english": "tunnel"
+  },
+  {
+    "id": 198,
+    "polish": "dostać mandat za przekroczenie prędkości",
+    "english": "get a speeding ticket"
+  },
+  {
+    "id": 199,
+    "polish": "ustąpić pierwszeństwa",
+    "english": "give way"
+  },
+  {
+    "id": 200,
+    "polish": "skrzyżowanie",
+    "english": "junction"
+  },
+  {
+    "id": 201,
+    "polish": "przestrzegać ograniczenia prędkości",
+    "english": "keep to the speed limit"
+  },
+  {
+    "id": 202,
+    "polish": "przejazd kolejowy",
+    "english": "level crossing"
+  },
+  {
+    "id": 203,
+    "polish": "wyprzedzać",
+    "english": "overtake"
+  },
+  {
+    "id": 204,
+    "polish": "przyspieszyć",
+    "english": "put one's foot down"
+  },
+  {
+    "id": 205,
+    "polish": "rondo",
+    "english": "roundabout"
+  },
+  {
+    "id": 206,
+    "polish": "fotoradar",
+    "english": "speed camera"
+  },
+  {
+    "id": 207,
+    "polish": "zapinać pas bezpieczeństwa",
+    "english": "wear a seat belt"
+  },
+  {
+    "id": 208,
+    "polish": "sprawdzić ostrzeżenia dotyczące podróżowania",
+    "english": "check travel warnings"
+  },
+  {
+    "id": 209,
+    "polish": "skontaktować się z ambasadą/konsulatem",
+    "english": "contact an embassy / consulate"
+  },
+  {
+    "id": 210,
+    "polish": "przeprowadzić dokładne badanie czegoś",
+    "english": "do in-depth research into sth"
+  },
+  {
+    "id": 211,
+    "polish": "woda filtrowana/butelkowana",
+    "english": "filtered / bottled water"
+  },
+  {
+    "id": 212,
+    "polish": "apteczka",
+    "english": "first aid kit"
+  },
+  {
+    "id": 213,
+    "polish": "samotny podróżnik/samotna podróżniczka",
+    "english": "solo traveller"
+  },
+  {
+    "id": 214,
+    "polish": "ubezpieczenie turystyczne",
+    "english": "travel insurance"
+  },
+  {
+    "id": 215,
+    "polish": "podróżować z małą ilością bagażu",
+    "english": "travel light"
+  },
+  {
+    "id": 216,
+    "polish": "podróżować w odległe miejsca",
+    "english": "travel widely"
+  },
+  {
+    "id": 217,
+    "polish": "relaksować się",
+    "english": "chill out"
+  },
+  {
+    "id": 218,
+    "polish": "rozdawać",
+    "english": "hand out"
+  },
+  {
+    "id": 219,
+    "polish": "rozejrzeć się",
+    "english": "look round"
+  },
+  {
+    "id": 220,
+    "polish": "przegapić coś",
+    "english": "miss out on sth"
+  },
+  {
+    "id": 221,
+    "polish": "rozgościć się",
+    "english": "settle in"
+  },
+  {
+    "id": 222,
+    "polish": "zatrzymać się",
+    "english": "stop over"
+  },
+  {
+    "id": 223,
+    "polish": "zwrócić się do kogoś o pomoc",
+    "english": "turn to"
+  },
+  {
+    "id": 224,
+    "polish": "być wartym podróży",
+    "english": "be well worth a trip"
+  },
+  {
+    "id": 225,
+    "polish": "ślad węglowy",
+    "english": "carbon footprint"
+  },
+  {
+    "id": 226,
+    "polish": "niszczyć delikatny ekosystem",
+    "english": "damage a fragile ecosystem"
+  },
+  {
+    "id": 227,
+    "polish": "przestrzegać przepisów",
+    "english": "follow regulations"
+  },
+  {
+    "id": 228,
+    "polish": "lecieć gdzieś samolotem",
+    "english": "jet off"
+  },
+  {
+    "id": 229,
+    "polish": "zabrać pasażera/pasażerkę taksówki",
+    "english": "pick up a fare"
+  },
+  {
+    "id": 230,
+    "polish": "wolny dzień",
+    "english": "day out"
+  },
+  {
+    "id": 231,
+    "polish": "jak najlepiej coś wykorzystać",
+    "english": "make the most of sth"
+  },
+  {
+    "id": 232,
+    "polish": "zająć wieczność",
+    "english": "take forever"
+  },
+  {
+    "id": 233,
+    "polish": "wypróbowany, sprawdzony",
+    "english": "tried and tested"
+  },
+  {
+    "id": 234,
+    "polish": "wyjątkowy, wyróżniający się",
+    "english": "with a difference"
+  },
+  {
+    "id": 235,
+    "polish": "z niezwykłą prędkością",
+    "english": "at a rate of knots"
+  },
+  {
+    "id": 236,
+    "polish": "emanować luksusem",
+    "english": "exude luxury"
+  },
+  {
+    "id": 237,
+    "polish": "pędzić",
+    "english": "hurtle"
+  },
+  {
+    "id": 238,
+    "polish": "etap podróży",
+    "english": "leg of a journey"
+  },
+  {
+    "id": 239,
+    "polish": "zatrzymać się z piskiem opon",
+    "english": "screech to a halt"
+  },
+  {
+    "id": 240,
+    "polish": "skrócić czas czegoś",
+    "english": "shave off"
+  },
+  {
+    "id": 241,
+    "polish": "wić się przez, jechać wężykiem",
+    "english": "snake through"
+  }
+]
