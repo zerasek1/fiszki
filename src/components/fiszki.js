@@ -20,7 +20,7 @@ const Fiszki = () => {
     return (
         <>
             <div className="d-flex justify-content-center p-5 text-center">
-                <div className="card w-25" style={{ height: "400px", cursor: "pointer" }} onClick={() => setFlipped((e) => !e)}>
+                <div className="card w-75" style={{ height: "400px", cursor: "pointer" }} onClick={() => setFlipped((e) => !e)}>
                     <div className="card-body p-5 d-flex justify-content-center align-items-center">
                         <h2>{flipped ? card.english : card.polish}</h2>
                     </div>
